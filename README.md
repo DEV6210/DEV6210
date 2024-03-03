@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🔥
 **CTO at Clink**
-![Clink Logo]("https://lh3.googleusercontent.com/a/ACg8ocLlE7SZ_Dw_1ByKIIQQ2SxKDD-toutgD4nrOUi2YcYtjQ=s360-c-no)
+![Clink Logo]("https://lh3.googleusercontent.com/a/ACg8ocLlE7SZ_Dw_1ByKIIQQ2SxKDD-toutgD4nrOUi2YcYtjQ=s360-c-no")
 
 **CEO at Tender**
 ![Tender Logo](insert_image_url_here)
