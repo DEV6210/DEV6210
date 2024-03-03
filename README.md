@@ -2,6 +2,11 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🔥
+**CTO at Clink**
+![Clink Logo]("https://lh3.googleusercontent.com/a/ACg8ocLlE7SZ_Dw_1ByKIIQQ2SxKDD-toutgD4nrOUi2YcYtjQ=s360-c-no)
+
+**CEO at Tender**
+![Tender Logo](insert_image_url_here)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
