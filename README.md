@@ -18,5 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/880f51cf59ca1192f13c52c444d491aff1e60c4932ba5c9208cf1f90a3e51cb3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d626173617261742672616e6b3d535353" />
+ 
+</div>
 
-https://camo.githubusercontent.com/880f51cf59ca1192f13c52c444d491aff1e60c4932ba5c9208cf1f90a3e51cb3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d626173617261742672616e6b3d535353
