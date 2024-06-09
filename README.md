@@ -2,8 +2,6 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🔥
-![about](https://github.com/DEV6210/DEV6210/assets/91625966/4239b9a3-0c85-4d34-a839-dbb79939ae05)
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
