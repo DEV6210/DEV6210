@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🚀 A passionate **Full Stack Developer** specializing in building end-to-end solutions.
 - 🌱 **Learning Never Stops**: Continuously exploring new technologies and improving my skills.
-- 🔥 Currently working on a **Doctor Appointment Booking Platform** (branding as "Appointo").
+- 🔥 Currently working on a **Doctor Appointment Booking Platform** (branding as "Doctora.Ai").
 - 💼 Freelancer on [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t) | Portfolio at [amitmandal.in](http://amitmandal.in)
 
 ---
@@ -44,12 +44,22 @@
 ---
 
 ### ⚡ My Projects
-- **[Clink](#)**: The Education Social Network
 - **[Work Blend](#)**: A job portal and freelancing platform.
 - **[Doctor Appointment Booking Platform](#)**: Personal app and website for doctors.
 - **[Rajkumar Ambulance Service](#)**: End-to-end ambulance service management.
-- **[RabBET](#)**: A gambling and reward application.
+- **[Reward King](#)**: A gambling and reward application.
 - [More Projects...](https://www.freelancer.com/u/fullstackcoderx?sb=t)
+
+---
+
+### 🏆 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-mandal&show_icons=true&hide_border=true&theme=radical" alt="Amit's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-mandal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-mandal&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</div>
 
 ---
 
