@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 🚀 A passionate **Full Stack Developer** specializing in building end-to-end solutions.
 - 🌱 **Learning Never Stops**: Continuously exploring new technologies and improving my skills.
-- 🔥 Currently working on a **Doctor Appointment Booking Platform** (branding as "Doctora.Ai").
+- 🔥 Currently working on a **Doctor Appointment Booking Platform** (branding as "DoctorEzy").
 - 💼 Freelancer on [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t) | Portfolio at [amitmandal.in](http://amitmandal.in)
 
 ---
