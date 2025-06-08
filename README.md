@@ -48,12 +48,7 @@
 ---
 
 ### 📫 How to Reach Me
-📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com)  
-💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)
-<a href="" target="blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
+📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com) | 💬 +91 9382370394 | 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)
 ---
 
 ### ✨ Fun Fact
