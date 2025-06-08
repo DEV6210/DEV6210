@@ -48,7 +48,10 @@
 ---
 
 ### 📫 How to Reach Me
-📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com) | 💬 +91 9382370394 | 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)
+- 📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com)
+- 💬 +91 9382370394
+- 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)
+
 ---
 
 ### ✨ Fun Fact
