@@ -44,13 +44,13 @@
 ---
 
 ### ⚡ My Projects
-- **[https://infino-amitmandal.netlify.app](#)**
+- **[https://infino-amitmandal.netlify.app](https://infino-amitmandal.netlify.app)(#)**
 
 ---
 
 ### 📫 How to Reach Me
 📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com)  
-🌐 [amitmandal.in](http://amitmandal.in)  
+🌐 [https://amitmandal.netlify.app](https://amitmandal.netlify.app)
 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)  
 
 ---
