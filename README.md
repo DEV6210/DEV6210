@@ -44,7 +44,7 @@
 ---
 
 ### ⚡ My Projects
-- **[https://infino-amitmandal.netlify.app](https://infino-amitmandal.netlify.app)(#)**
+- **[https://infino-amitmandal.netlify.app](https://infino-amitmandal.netlify.app)**
 
 ---
 
