@@ -44,12 +44,7 @@
 ---
 
 ### ⚡ My Projects
-- **[Work Blend](#)**: A job portal and freelancing platform.
-- **[Doctor Appointment Booking Platform](#)**: Personal app and website for doctors.
-- **[Rajkumar Ambulance Service](#)**: End-to-end ambulance service management.
-- **[RabBET](#)**: A gambling and reward application.
-- **[Clink](#)**: The Educational Social Network.
-- [More Projects...](https://www.freelancer.com/u/fullstackcoderx?sb=t)
+- **[https://infino-amitmandal.netlify.app](#)**
 
 ---
 
