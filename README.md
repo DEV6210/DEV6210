@@ -8,8 +8,7 @@
 ### 🌟 About Me
 - 🚀 A passionate **Full Stack Developer** specializing in building end-to-end solutions.
 - 🌱 **Learning Never Stops**: Continuously exploring new technologies and improving my skills.
-- 🔥 Currently working on a **Doctor Appointment Booking Platform** (branding as "DoctorEzy").
-- 💼 Freelancer on [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t) | Portfolio at [amitmandal.in](http://amitmandal.in)
+- 💼 Freelancer on [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t) | Portfolio at [https://amitmandal.netlify.app](https://amitmandal.netlify.app)
 
 ---
 
@@ -44,13 +43,12 @@
 ---
 
 ### ⚡ My Projects
-- **[https://infino-amitmandal.netlify.app](https://infino-amitmandal.netlify.app)**
+- **Checkout Now:  [https://infino-amitmandal.netlify.app](https://infino-amitmandal.netlify.app)**
 
 ---
 
 ### 📫 How to Reach Me
 📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com)  
-🌐 [https://amitmandal.netlify.app](https://amitmandal.netlify.app)                                            
 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)  
 
 ---
