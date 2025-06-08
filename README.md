@@ -50,7 +50,7 @@
 
 ### 📫 How to Reach Me
 📧 [amitmandal6210@gmail.com](mailto:amitmandal6210@gmail.com)  
-🌐 [https://amitmandal.netlify.app](https://amitmandal.netlify.app)
+🌐 [https://amitmandal.netlify.app](https://amitmandal.netlify.app)                                            
 💼 [Freelancer](https://www.freelancer.com/u/fullstackcoderx?sb=t)  
 
 ---
