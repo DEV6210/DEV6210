@@ -1,143 +1,109 @@
+<!-- 
+* =====================================================================================================
+*                                    HEY! YOU FOUND THE SECRET!
+*
+*   This is the code for my dynamic GitHub profile. Feel free to be inspired!
+*   If you have any questions, don't hesitate to reach out.
+* =====================================================================================================
+-->
+
+<!-- 1. HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/uUQ2sUv.png" alt="Amit Mandal - Full Stack Developer Banner" />
+</p>
+
+<!-- 2. INTRODUCTION -->
 <div align="center">
-  
-# Amit Mandal
-
-### Full Stack Developer | React & Node.js Specialist
-
-<a href="https://amitmandal.netlify.app/" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?color=339933&size=27&lines=Crafting+Scalable+Web+Applications;Building+Intuitive+User+Interfaces;Turning+Ideas+into+Reality¢er=true&width=600&height=50" />
-</a>
-
+  <h1>Hi, I'm Amit Mandal 👋</h1>
+  <h3>A Full Stack Developer turning visionary ideas into powerful, scalable web applications.</h3>
+  <a href="https://amitmandal.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&size=27&lines=MERN+Stack+Specialist+%F0%9F%9A%80;Building+End-to-End+Solutions+%E2%9A%99%EF%B8%8F;Always+Learning,+Always+Innovating+%F0%9F%94%A5¢er=true&width=650&height=50" />
+  </a>
 </div>
 
----
-
-### 🚀 About Me
-
-I'm a results-driven **Full Stack Developer** with a passion for building robust and user-friendly web applications from scratch. With strong expertise in the **MERN stack (MongoDB, Express.js, React, Node.js)**, I excel at turning complex problems into elegant, scalable solutions. I am a lifelong learner, constantly exploring new technologies to stay at the forefront of web development.
-
-- 🔭 I’m currently working on building a real-time collaborative code editor.
-- 🌱 I’m currently deepening my knowledge in **Serverless Architectures and AWS**.
-- 👯 I’m looking to collaborate on innovative open-source projects.
-- 💼 Actively seeking a **Full Stack Developer** role where I can contribute to a passionate team.
-- 📫 How to reach me: **amitmandal6210@gmail.com**
+<!-- 3. SOCIALS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-mandal-80802926b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://amitmandal.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:amitmandal6210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.freelancer.com/u/fullstackcoderx" target="_blank"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"></a>
+</p>
 
 ---
 
-### 🔗 Connect with me
+### 🚀 My Mission
+As a developer, my mission is to craft digital experiences that are not only functional and robust but also intuitive and enjoyable for the end-user. I thrive in collaborative environments where I can solve complex problems and contribute to building products that make a real-world impact.
+
+---
+
+### 💻 My Tech Arsenal
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-mandal-80802926b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,css,tailwind,sass&perline=5" />
   </a>
-  <a href="https://amitmandal.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql,aws,docker&perline=5" />
   </a>
-  <a href="https://www.freelancer.com/u/fullstackcoderx" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
-  <a href="mailto:amitmandal6210@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&perline=5" />
   </a>
 </p>
 
 ---
 
-### 💻 My Tech Stack
+### 🏆 Featured Projects
+
+Here are some of the key projects I've worked on.
 
 <table>
   <tr>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br />
-      <b>JavaScript / TypeScript</b>
+    <td width="50%" valign="top">
+      <h3>Infino - E-commerce Platform</h3>
+      <a href="https://infino-amitmandal.netlify.app" target="_blank"><img src="[ADD-YOUR-PROJECT-SCREENSHOT-URL-HERE]" alt="Infino Project Screenshot" width="100%"></a>
+      <p>A full-stack e-commerce application built with the MERN stack. Features a complete user workflow from browsing and searching to secure checkout with Stripe integration.</p>
+      <div>
+        <a href="https://infino-amitmandal.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge">
+        </a>
+        <a href="[ADD-GITHUB-REPO-LINK-FOR-INFINO]" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,tailwind" />
     </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=html,css,sass" /><br />
-      <b>HTML / CSS / SASS</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux" /><br />
-      <b>React / Next.js / Redux</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python" /><br />
-      <b>Node.js / Express / Python</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br />
-      <b>Databases</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=aws,docker,vercel" /><br />
-      <b>DevOps & Cloud</b>
-    </td>
-    <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=react" /><br />
-      <b>React Native</b>
-    </td>
-     <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br />
-      <b>Tools & Platforms</b>
+    <td width="50%" valign="top">
+      <h3>Project Title #2</h3>
+      <a href="#" target="_blank"><img src="[ADD-YOUR-PROJECT-SCREENSHOT-URL-HERE]" alt="Project 2 Screenshot" width="100%"></a>
+      <p>A short, impactful description of your second project. What does it do? What problem does it solve? Highlight a key technical challenge you overcame.</p>
+      <div>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge">
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,postgresql,docker,aws" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Projects Showcase
-
-<table>
-<tr>
-<td width="50%">
-  <h3 align="center">Infino - E-commerce Platform</h3>
-  <div align="center">
-    <a href="https://infino-amitmandal.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-255E63?style=for-the-badge" /></a>
-    <a href="https://github.com/YOUR-USERNAME/infino-repo" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github" /></a>
-    <br /><br />
-    <p>A full-featured e-commerce website built with the MERN stack, offering a seamless shopping experience.</p>
-    <b>Key Features:</b>
-    <ul>
-      <li>JWT-based user authentication & authorization.</li>
-      <li>Product catalog with search and filtering.</li>
-      <li>Shopping cart and secure checkout process.</li>
-      <li>Admin panel for product and order management.</li>
-    </ul>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb" />
-    </p>
-  </div>
-</td>
-<td width="50%">
-  <h3 align="center">Project #2 Title</h3>
-  <div align="center">
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-255E63?style=for-the-badge" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-333?style=for-the-badge&logo=github" /></a>
-    <br /><br />
-    <p>Brief description of your second project. What problem does it solve? Who is it for?</p>
-    <b>Key Features:</b>
-    <ul>
-      <li>Feature A (e.g., Real-time chat).</li>
-      <li>Feature B (e.g., Google OAuth login).</li>
-      <li>Feature C (e.g., Interactive dashboard).</li>
-      <li>Feature D (e.g., API integration).</li>
-    </ul>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,postgresql" />
-    </p>
-  </div>
-</td>
-</tr>
-</table>
-
----
-
-### 📊 My GitHub Stats
+### 📊 My GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&icon_color=339933" alt="Amit Mandal's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&langs_count=8" alt="Amit Mandal's top languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&icon_color=87CEEB&hide_border=true&count_private=true" alt="Amit's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Amit's Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Amit's Contribution Streak" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Amit's Contribution Graph"/>
 </p>
 
 ---
